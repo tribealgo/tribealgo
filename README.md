@@ -7,7 +7,7 @@ Here you’ll find the **source code** for our **free trading tools**, designed 
 
 ### 🚀 Explore Our Free Tools
 
-Browse our repositories to access a growing collection of trading utilities — from risk management scripts to automation helpers — all developed with clarity, transparency, and performance in mind.
+Browse our repositories to access a growing collection of trading utilities — all developed with clarity, transparency, and performance in mind.
 
 ### 💎 Join the TribeAlgo Pro Community
 
