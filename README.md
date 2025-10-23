@@ -18,9 +18,9 @@ Looking for advanced EAs **strictly tested for long-term profitability**, trade 
 
 ### 💬 Stay Connected
 
-<a href="https://tribealgo.com/youtube" target="_blank">![YouTube](https://img.shields.io/badge/YouTube-0A0A0A?logo=youtube)</a>
-<a href="https://tribealgo.com/instagram" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?logo=instagram)</a>
-<a href="https://tribealgo.com/threads" target="_blank">![Threads](https://img.shields.io/badge/Threads-0A0A0A?logo=threads)</a>
-<a href="https://tribealgo.com/tiktok" target="_blank">![TikTok](https://img.shields.io/badge/TikTok-0A0A0A?logo=tiktok)</a>
+[![YouTube](https://img.shields.io/badge/YouTube-0A0A0A?logo=youtube)](https://tribealgo.com/youtube)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?logo=instagram)](https://tribealgo.com/instagram)
+[![Threads](https://img.shields.io/badge/Threads-0A0A0A?logo=threads)](https://tribealgo.com/threads)
+[![TikTok](https://img.shields.io/badge/TikTok-0A0A0A?logo=tiktok)](https://tribealgo.com/tiktok)
 
 **Happy Trading Automation!**
