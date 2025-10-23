@@ -1,4 +1,4 @@
-![TribeAlgo Thumbnail](hero-image.png)
+![TribeAlgo Thumbnail](thumbnail.png)
 
 # 👋 Welcome to **TribeAlgo**
 
