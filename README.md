@@ -18,6 +18,7 @@ Looking for advanced EAs **strictly tested for long-term profitability**, trade 
 
 ### 💬 Stay Connected
 
+[![Whop](https://img.shields.io/badge/Whop-0A0A0A?logo=redbull)](https://tribealgo.com/whop)
 [![YouTube](https://img.shields.io/badge/YouTube-0A0A0A?logo=youtube)](https://tribealgo.com/youtube)
 [![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?logo=instagram)](https://tribealgo.com/instagram)
 [![Threads](https://img.shields.io/badge/Threads-0A0A0A?logo=threads)](https://tribealgo.com/threads)
