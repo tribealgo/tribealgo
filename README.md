@@ -14,7 +14,7 @@ Browse our repositories to access a growing collection of trading utilities — 
 Looking for advanced algorithmic trading EAs **strictly tested for long-term profitability**, trade copiers, and hybrid automation systems?  
 👉 [**Join the Pro Group**](https://tribealgo.com/whop) for **exclusive access** to our premium tools, dedicated forex vps, early releases and the **best price-to-value** in the industry.
 
-⚠️ **Maximum 1.000 members** — To ensure high-quality support and engagement, membership in the tribe is **permanently** limited to 1,000 members. [**Join now**](https://tribealgo.com/whop) to secure your place and start winning today!
+⚠️ **Maximum 1.000 members** — To ensure high-quality support and engagement, pro membership in the tribe is **permanently** limited to 1,000 members. [**Join now**](https://tribealgo.com/whop) to secure your place and start winning today!
 
 ### 💬 Stay Connected
 
