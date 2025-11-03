@@ -11,7 +11,7 @@ Browse our repositories to access a growing collection of trading utilities — 
 
 ### 💎 Join TribeAlgo Pro
 
-Get **exclusive access** to all our current and future premium tools, trading signals, hybrid and fully automated EAs, plus a **dedicated Forex VPS** that lets you trade **24/7 with zero electricity or internet costs** — [**join TribeAlgo Pro**](https://tribealgo.com/whop) today!
+Get **exclusive access** to all our current and future premium tools, trading signals, hybrid and fully automated EAs, plus a **dedicated Forex VPS** that lets you trade **24/7 with zero electricity or internet costs** - [**join TribeAlgo Pro**](https://tribealgo.com/whop) today!
 
 ⚠️ **Only 1.000 spots** — To ensure high-quality support and engagement, tribealgo pro membership is **permanently** limited to 1,000 members. [**Join now**](https://tribealgo.com/whop) to secure your place and start winning today!
 
