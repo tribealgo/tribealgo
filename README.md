@@ -9,10 +9,9 @@ Here you’ll find the **source code** for our **free trading tools**, designed 
 
 Browse our repositories to access a growing collection of trading utilities — all developed with clarity, transparency, and performance in mind.
 
-### 💎 Join TribeAlgo Pro
+### 💎 TribeAlgo Pro
 
-Looking for advanced algorithmic trading EAs **strictly tested for long-term profitability**, trade copiers, and hybrid automation systems?  
-👉 [**Join the Pro Group**](https://tribealgo.com/whop) for **exclusive access** to our premium tools, dedicated forex vps, early releases and the **best price-to-value** in the industry.
+Get **exclusive access** to all our current and future premium tools, trading signals, hybrid and fully automated EAs, plus a **dedicated Forex VPS** that lets you trade **24/7 with zero electricity or internet costs** — [**join TribeAlgo Pro**](https://tribealgo.com/whop) today!
 
 ⚠️ **Only 1.000 spots** — To ensure high-quality support and engagement, tribealgo pro membership is **permanently** limited to 1,000 members. [**Join now**](https://tribealgo.com/whop) to secure your place and start winning today!
 
