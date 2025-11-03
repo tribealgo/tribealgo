@@ -9,7 +9,7 @@ Here you’ll find the **source code** for our **free trading tools**, designed 
 
 Browse our repositories to access a growing collection of trading utilities — all developed with clarity, transparency, and performance in mind.
 
-### 💎 TribeAlgo Pro
+### 💎 Join TribeAlgo Pro
 
 Get **exclusive access** to all our current and future premium tools, trading signals, hybrid and fully automated EAs, plus a **dedicated Forex VPS** that lets you trade **24/7 with zero electricity or internet costs** — [**join TribeAlgo Pro**](https://tribealgo.com/whop) today!
 
