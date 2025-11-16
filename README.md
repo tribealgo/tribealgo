@@ -1,6 +1,6 @@
 ![TribeAlgo Thumbnail](thumbnail.png)
 
-# 👋 Welcome to **TribeAlgo**
+# TribeAlgo - Hybrid Trading Automation
 
 **TribeAlgo** is on a mission to build **trading automation that actually works**.  
 Here you’ll find the **source code** for our **free trading tools**, designed to help traders automate, optimize, and simplify their trading journey.
